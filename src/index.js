@@ -16,7 +16,7 @@ class App extends Component {
 
     this.state = {videos: []};
 
-    this.videoSearch('DIGANTI NIH');
+    this.videoSearch('Bat Hearing Ultrasonic');
   }
 
   videoSearch(term){
